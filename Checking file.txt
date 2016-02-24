@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+Hi... This file is created to check github
+
+
+Here is a video link: https://www.youtube.com/watch?v=gAWiXbT599E
+
+This explains clearly on how to upload project in github
+=======
+Hi... This file is created to check github
+>>>>>>> fe552d19630a3df096d0acef77dac658942a84aa
+=======
+Hi... This file is created to check github
+
+Here is a video link: https://www.youtube.com/watch?v=gAWiXbT599E
+
+This explains clearly on how to upload project in github
+>>>>>>> d93f85e7968d42eec61f2febf5564af93d67bb27
